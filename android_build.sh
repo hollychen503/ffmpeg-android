@@ -27,4 +27,4 @@ do
   ./ffmpeg_build.sh $i $BASEDIR 0 || exit 1
 done
 
-rm -rf ${TOOLCHAIN_PREFIX}
+#rm -rf ${TOOLCHAIN_PREFIX}
