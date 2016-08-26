@@ -27,11 +27,3 @@ Instructions
 License
 ----
   check files LICENSE.GPLv3 and LICENSE
-
-HIRE US
---------
-Get in touch with us - http://www.writingminds.com
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hiteshsondhi88/ffmpeg-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
