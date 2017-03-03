@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export ANDROID_NDK=/home/longnd/build/android-ndk-r12b
+#export ANDROID_NDK=/home/longnd/build/android-ndk-r12b
 #SUPPORTED_ARCHITECTURES=(armeabi-v7a armeabi-v7a-neon x86)
 SUPPORTED_ARCHITECTURES=armeabi-v7a
 ANDROID_NDK_ROOT_PATH=${ANDROID_NDK}
